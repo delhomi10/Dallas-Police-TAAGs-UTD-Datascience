@@ -1,0 +1,20 @@
+'UNAUTHORIZED USE OF MOTOR VEH                            ',    82852
+'BMV                                                      ',     7434
+'ABANDONED/FOUND PROPERTY NO OFFENSE                      ',     6999
+'UNAUTHORIZED USE OF MOTOR VEH ATT                        ',     3473
+'PUBLIC INTOXICATION                                      ',     3436
+'CRIM MISCHIEF greater than OR EQUAL $100 less than $750  ',     2041
+'RECOVERED OUT OF TOWN STOLEN VEHICLE NO OFFENSE          ',     1819
+'CRIMINAL TRESPASS WARNING                                ',     1788
+'LOST PROPERTY NO OFFENSE                                 ',     1780
+'ROBBERY OF INDIVIDUAL AGG                                ',     1754
+'BURGLARY OF BUILDING - FORCED ENTRY                      ',     1662
+'BURGLARY OF HABITATION - FORCED ENTRY                    ',     1579
+'APOWW SOCIAL SERVICES REFERRAL                           ',     1576
+'POSS MARIJUANA less than2OZ                              ',     1470
+'RECKLESS DAMAGE                                          ',     1205
+'ASSAULT -BODILY INJURY                                   ',     1090
+'BURGLARY OF HABITATION -NO FORCED ENTRY                  ',     1084
+'THEFT OF PROP greater than OR EQUAL $100 less than $750  ',     1063
+'ASSAULT AGG                                              ',     1035
+'CRIM MISCHIEF greater than or EQUAL $750 less than $2,500'    1022
